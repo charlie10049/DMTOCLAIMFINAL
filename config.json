@@ -1,0 +1,13 @@
+{
+  "token": "NTU5MTkwOTQxNTEzMjg1NjU0.D3hyrw.k5VZUpuONF81HfCpD_pRU_F_bgo",
+  "mailGuildId": "559126693248368640",
+  "mainGuildId": "558824729738346516",
+  "logChannelId": "559191447463526425",
+  "closeMessage": "Thank you for messaging us. We closed the thread but if you require more assistance please do not hessitate to message back!",
+  "alwaysReply" : true ,
+  "mentionRole" : false ,
+
+
+  "status": "Message me for reward claims!",
+  "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
+}
